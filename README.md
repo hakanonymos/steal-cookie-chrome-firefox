@@ -29,7 +29,9 @@ your will find the cookies in the file logs.txt
 
  ( this extension works for chrome )
  
-install this extension https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+install this extension
+
+https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
 
 import your cookie stealed
 
@@ -51,7 +53,9 @@ hakanonymos@hotmail.com
 
 ## Happy Hacking
 
+## chanel youtube
 
+ https://www.youtube.com/channel/UC3-GvoDC1BhxUIJC6tec0lw?view_as=subscriber
 
 
 
