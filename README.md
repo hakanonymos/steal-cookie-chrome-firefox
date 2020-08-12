@@ -35,7 +35,19 @@ install this extension
 
 https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
 
-import your cookie stealed
+open logs.txt
+
+1) remove  {"m":1}  or  {"m":d }  ....etc  on the first line of cookies
+
+2) remove }   at the end of cookies ( last line of cookies )
+
+copie the cookie after remove instruction 1 and 2
+
+
+import your cookie stealed in the extension ,past the cookie , wait a few seconds for cookies to be saved in the extension
+
+now you can login with the website of victime
+
 
 ## mode production
 
