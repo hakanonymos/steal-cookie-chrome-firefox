@@ -1,6 +1,5 @@
 
 
-//execute javascript from webserver
 
 
 
