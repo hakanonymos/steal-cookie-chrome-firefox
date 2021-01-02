@@ -62,6 +62,12 @@ now you need to change  : localhost by your hostname in the file background.js
 
 upload the application python in your Cpanel
 
+
+## other similar project
+
+https://github.com/hakanonymos/steal-chrome-password-all-version
+
+
 # contatct
 
 hakanonymos@hotmail.com
