@@ -76,7 +76,7 @@ instagram : hakanonymos
 
 skype : hakanonymos
 
-Whatsapp: +1 336 415 3487
+Telegram,Whatsapp: +1 336 415 3487
 
 
 
