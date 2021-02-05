@@ -72,11 +72,10 @@ https://github.com/hakanonymos/steal-chrome-password-all-version
 
 hakanonymos@hotmail.com
 
-instagram : hakanonymos
+Telegram,Whatsapp: +1 336 415 3487 (always in telegrame)
 
-skype : hakanonymos
+instagram,skype,ICQ : hakanonymos
 
-Telegram,Whatsapp: +1 336 415 3487
 
 
 
