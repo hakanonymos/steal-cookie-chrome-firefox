@@ -71,14 +71,13 @@ upload the application python in your Cpanel
 
 ## other similar project
 
-https://github.com/hakanonymos/steal-chrome-password-all-version
-
+https://github.com/hakanonymos/botnet-browser-chrome 
 
 # contatct
 
 hakanonymos@hotmail.com
 
-Telegram,Whatsapp: +1 336 415 3487 (always in telegrame)
+Telegram : @hakanonymos
 
 instagram,skype,ICQ : hakanonymos
 
